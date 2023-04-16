@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+
+#score{
+    font-size: 40px;
+    margin-right:80% ;
+}
+
+#timer{
+    font-size: 40px;
+}
+
+#sketch-drawn{
+    color: royalblue;
+    font-size: 20;
+}
